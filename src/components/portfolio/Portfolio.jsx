@@ -9,7 +9,7 @@ const items = [
     img: "/quickPay.png",
     deployLink: "https://upi-wallet.vercel.app/",
     githubLink: "https://github.com/rks007/Basic-Upi-Wallet",
-    desc: "",
+    desc: "Built a MERN-stack UPI wallet application for secure financial management.",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const items = [
     img: "/echoBlog.png",
     deployLink: "https://blogging-website-delta-ebon.vercel.app/",
     githubLink: "https://github.com/rks007/Blogging_Website",
-    desc: "",
+    desc: "Developed a full-stack blogging platform where users can write and publish blogs.",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const items = [
     img: "/udemy.png",
     deployLink: "",
     githubLink: "https://github.com/rks007/course_selling_backend_application",
-    desc: "",
+    desc: "Implemented secure JWT authentication, admin management, user interaction features for course browsing and purchasing, and integrated MongoDB for data storage.",
   },
   // {
   //   id: 4,
